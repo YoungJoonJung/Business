@@ -3,7 +3,7 @@
     "short_name": "Beauty",
     "start_url": "./index.html",
     "display": "standalone",
-    "background_color": "#fff1f6",
-    "theme_color": "#FFA6C9",
+    "background_color": "#f4eff8",
+    "theme_color": "#A378B5",
     "icons": []
 }

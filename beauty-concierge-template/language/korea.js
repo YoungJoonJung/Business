@@ -4,7 +4,7 @@ window.SITE_TRANSLATIONS.korea = {
     "languageName": "한국어"
   },
   "brand": {
-    "name": "Nana Beauty & Care Service"
+    "name": "Nana Beauty and Health Care Service"
   },
   "common": {
     "freeConsultation": "무료상담신청",

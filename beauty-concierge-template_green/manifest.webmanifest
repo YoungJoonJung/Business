@@ -1,0 +1,9 @@
+{
+    "name": "Nana Beauty & Care Service",
+    "short_name": "Beauty",
+    "start_url": "./index.html",
+    "display": "standalone",
+    "background_color": "#fffaf7",
+    "theme_color": "#b8846b",
+    "icons": []
+}
